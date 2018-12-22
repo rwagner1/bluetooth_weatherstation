@@ -1,5 +1,5 @@
 # bluetooth_weatherstation
-Build a bluetooth weather station with Arduino and design a corresponding Android App to read out data with your smartphone.
+Build a bluetooth weather station with Arduino Studio and design a corresponding Android App to read out data with your smartphone.
 
 
 Hardware:
